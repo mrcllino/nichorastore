@@ -1,3 +1,28 @@
+@font-face{
+	font-family: "kolikofont1" ; src : url(fonts/koliko-Bold.ttf);
+}
+.koliko1{
+	font-family: "kolikofont1";
+}
+@font-face{
+	font-family: "kolikofont2" ; src : url(fonts/koliko-Light.ttf);
+}
+.koliko2{
+	font-family: "kolikofont2";
+}
+@font-face{
+	font-family: "kolikofont3" ; src : url(fonts/koliko-Regular.ttf);
+}
+.koliko3{
+	font-family: "kolikofont3";
+}
+@font-face{
+	font-family: "kozagopro1" ; src : url(fonts/KozGoPro-Medium.otf);
+}
+.kozago1{
+	font-family: "kozagopro1";
+}
+
 html {
 	scroll-behavior: smooth;
 }
